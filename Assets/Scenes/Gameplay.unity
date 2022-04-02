@@ -825,7 +825,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1041141931}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.88, y: -1.6759176, z: 0}
+  m_LocalPosition: {x: 1.88, y: -1.6759176, z: -1.05}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1011,6 +1011,7 @@ GameObject:
   - component: {fileID: 1653450697}
   - component: {fileID: 1653450696}
   - component: {fileID: 1653450698}
+  - component: {fileID: 1653450699}
   m_Layer: 0
   m_Name: Enemypivot
   m_TagString: Untagged
@@ -1117,6 +1118,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 1
   target: {fileID: 1041141933}
+--- !u!114 &1653450699
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1653450694}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f49ce4df56046c4ea3454e54e42f186, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  path: {fileID: 1653450696}
 --- !u!1 &1741185687
 GameObject:
   m_ObjectHideFlags: 0
