@@ -24,14 +24,13 @@ public class GameManager : MonoBehaviour
     }
     void Start()
     {
-        if(lastCheckpoint != null)
-        {
-            GameObject player = FindObjectOfType<PlayerController>().gameObject;
-            player.transform.position = Checkpoints[lastCheckpoint].transform.position;
-        }
+        //if(lastCheckpoint != null)
+        //{
+        //    GameObject player = FindObjectOfType<PlayerController>().gameObject;
+        //    player.transform.position = Checkpoints[lastCheckpoint].transform.position;
+        //}
     }
 
-    // Update is called once per frame
     void Update()
     {
         if (Input.GetKeyDown("p"))
