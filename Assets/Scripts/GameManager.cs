@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -8,7 +9,7 @@ public class GameManager : MonoBehaviour
 
     public List<GameObject> Checkpoints;
 
-    int lastCheckpoint;
+    [SerializeField] int lastCheckpoint;
     private void Awake()
     {
         if(instance == null)
@@ -23,17 +24,31 @@ public class GameManager : MonoBehaviour
     }
     void Start()
     {
-        
+        if(lastCheckpoint != null)
+        {
+            GameObject player = FindObjectOfType<PlayerController>().gameObject;
+            player.transform.position = Checkpoints[lastCheckpoint].transform.position;
+        }
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        if (Input.GetKeyDown("p"))
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
     }
     
-    void LastCheckPoint(string name)
+    public void LastCheckPoint(string Name)
     {
-       
+        for (int i = 0; i < Checkpoints.Count; i++)
+        {
+            string checkPointName = Checkpoints[i].name;
+            if (Name == checkPointName)
+            {
+                lastCheckpoint = i;
+            }
+        }
     }
 }
