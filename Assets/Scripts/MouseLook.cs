@@ -10,9 +10,10 @@ public class MouseLook : MonoBehaviour
     }
     void Update()
     {
-        //float mouseX = Input.mousePosition.x;
-        //float mouseY = Input.GetAxis("Mouse Y");
+        Vector3 diff = Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position;
+        diff.Normalize();
 
-        transform.position = Input.mousePosition;
+        float rot_z = Mathf.Atan2(diff.y, diff.x) * Mathf.Rad2Deg;
+        transform.rotation = Quaternion.Euler(0f, 0f, rot_z - 90);
     }
 }

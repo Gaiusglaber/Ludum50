@@ -44,11 +44,11 @@ TagManager:
   - name: Ground
     uniqueID: 1476206345
     locked: 0
-  - name: Walls
-    uniqueID: 146111465
-    locked: 0
   - name: Enemy
     uniqueID: 886966057
+    locked: 0
+  - name: Walls
+    uniqueID: 146111465
     locked: 0
   - name: Player
     uniqueID: 3791137935
