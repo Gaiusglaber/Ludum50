@@ -1,5 +1,4 @@
-using System.Collections;
-using System.Collections.Generic;
+using System;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
@@ -10,6 +9,7 @@ public class PlayerController : MonoBehaviour
 
     GameObject lantern;
     Vector2 movement;
+    public Action<bool> OnCollidingEnemy = null;
     void Start()
     {
         gameManager = FindObjectOfType<GameManager>();
@@ -30,6 +30,17 @@ public class PlayerController : MonoBehaviour
         if (other.CompareTag("Checkpoints"))
         {
             gameManager.LastCheckPoint(other.name);
+        }
+        if (other.CompareTag("Enemy"))
+        {
+            OnCollidingEnemy?.Invoke(true);
+        }
+    }
+    private void OnTriggerExit(Collider other)
+    {
+        if (other.CompareTag("Enemy"))
+        {
+            OnCollidingEnemy?.Invoke(false);
         }
     }
 }
