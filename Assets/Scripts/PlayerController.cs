@@ -8,16 +8,18 @@ public class PlayerController : MonoBehaviour
     Rigidbody2D rb;
 
     GameObject lantern;
+    Vector2 movement;
     void Start()
     {
         rb = gameObject.GetComponent<Rigidbody2D>();
         lantern = transform.GetChild(0).gameObject;
     }
-    
+
     private void FixedUpdate()
     {
-        float yAxis = Input.GetAxis("Vertical");
-        float xAxis = Input.GetAxis("Horizontal");
-        rb.velocity = new Vector2(xAxis * speed, yAxis * speed);
+        movement.x = Input.GetAxisRaw("Horizontal");
+        movement.y = Input.GetAxisRaw("Vertical");
+        movement.Normalize();
+        rb.MovePosition(rb.position + movement * speed * Time.deltaTime);
     }
 }
