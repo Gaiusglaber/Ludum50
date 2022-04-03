@@ -1,17 +1,17 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
 
-    public List<GameObject> Checkpoints;
-
-    int lastCheckpoint;
+    GameObject player;
+    [SerializeField] public int lastCheckpoint = 0;
     private void Awake()
     {
-        if(instance == null)
+        if (instance == null)
         {
             instance = this;
             DontDestroyOnLoad(gameObject);
@@ -20,20 +20,14 @@ public class GameManager : MonoBehaviour
         {
             Destroy(gameObject);
         }
-    }
-    void Start()
-    {
-        
+        player = FindObjectOfType<PlayerController>().gameObject;
     }
 
-    // Update is called once per frame
     void Update()
     {
-        
-    }
-    
-    void LastCheckPoint(string name)
-    {
-       
+        if (Input.GetKeyDown("p"))
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
     }
 }
