@@ -7,7 +7,6 @@ TagManager:
   - Checkpoints
   - Enemy
   - EnemySound
-  - Lantern
   layers:
   - Default
   - TransparentFX
