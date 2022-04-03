@@ -3,7 +3,8 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    [SerializeField] private SoundPlayer player = null;
+    [SerializeField] private SoundPlayer Soundplayer = null;
+    [SerializeField] private PlayerController player = null;
     GameManager gameManager;
     CheckpointManager checkPointManager;
     [SerializeField] float speed;
@@ -12,8 +13,11 @@ public class PlayerController : MonoBehaviour
     GameObject lantern;
     Vector2 movement;
     public Action<bool> OnCollidingEnemy = null;
+    public Action OnPickKey = null;
+    [NonSerialized] public bool HasKey = false;
     private void Awake()
     {
+        player.OnPickKey = EnableKey;
         checkPointManager = FindObjectOfType<CheckpointManager>();
         gameManager = FindObjectOfType<GameManager>();
         rb = gameObject.GetComponent<Rigidbody2D>();
@@ -41,18 +45,34 @@ public class PlayerController : MonoBehaviour
         if (other.CompareTag("Enemy"))
         {
             OnCollidingEnemy?.Invoke(true);
-            player.OnPlaySound?.Invoke("0");
+            Soundplayer.OnPlaySound?.Invoke("0");
         }
         if (other.CompareTag("EnemySound"))
         {
-            player.OnPlaySound?.Invoke("1");
+            Soundplayer.OnPlaySound?.Invoke("1");
+        }
+        
+    }
+    private void OnTriggerStay2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Key")&&Input.GetKey(KeyCode.E))
+        {
+            OnPickKey?.Invoke();
+            collision.gameObject.SetActive(false);
+            HasKey = true;
         }
     }
-    private void OnTriggerExit(Collider other)
+    private void OnTriggerExit2D(Collider2D collision)
     {
-        if (other.CompareTag("Enemy"))
         {
-            OnCollidingEnemy?.Invoke(false);
+            if (collision.CompareTag("Enemy"))
+            {
+                OnCollidingEnemy?.Invoke(false);
+            }
         }
+    }
+    private void EnableKey()
+    {
+
     }
 }

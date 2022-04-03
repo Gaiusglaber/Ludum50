@@ -14,6 +14,7 @@ public class UIController : MonoBehaviour
     [SerializeField] private Volume volume = null;
     [SerializeField] private float vignetteIntensity = 0;
     [SerializeField] private float grainIntensity = 0;
+    [SerializeField] private GameObject keyimg = null;
     #endregion
     #region PRIVATE_FIELDS
     private bool OnCollidingEnemy = false;
@@ -26,6 +27,7 @@ public class UIController : MonoBehaviour
     #region UNITY_CALLS
     private void Start()
     {
+        player.OnPickKey = EnableKey;
         player.OnCollidingEnemy += IncreaseSanity;
         volume.profile.TryGet(out grain);
         volume.profile.TryGet(out vignette);
@@ -52,7 +54,11 @@ public class UIController : MonoBehaviour
     #region PRIVATE_METHODS
     private void IncreaseSanity(bool sanity)
     {
-        OnCollidingEnemy = sanity;
+       OnCollidingEnemy = sanity;
+    }
+    private void EnableKey()
+    {
+        keyimg.SetActive(true);
     }
     #endregion
 }
