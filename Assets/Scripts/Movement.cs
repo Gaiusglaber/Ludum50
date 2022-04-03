@@ -12,7 +12,6 @@ public abstract class Mover
 
     protected virtual void Start()
     {
-        boxCollider = 
     }
     protected virtual void UpdateMotor(Vector3 imput)
     {
