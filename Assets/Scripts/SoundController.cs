@@ -2,8 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Pathfinders.Toolbox.Lerpers;
+using Pathfinders.Toolbox.Singletons;
 
-public class SoundController : MonoBehaviour
+public class SoundController : GenericSingleton<SoundController>
 {
     [SerializeField] private AudioSource musicSource = null;
     [SerializeField] private AudioSource soundSource = null;
