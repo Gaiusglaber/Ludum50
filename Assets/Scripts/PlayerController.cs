@@ -40,7 +40,11 @@ public class PlayerController : MonoBehaviour
         if (other.CompareTag("Enemy"))
         {
             OnCollidingEnemy?.Invoke(true);
-            gameObject.GetComponent<AudioSource>().Play();
+            if(!other.GetComponent<AudioSource>().isPlaying) other.GetComponent<AudioSource>().Play();
+        }
+        if (other.CompareTag("EnemySound"))
+        {
+            if (!other.GetComponent<AudioSource>().isPlaying) other.GetComponent<AudioSource>().Play();
         }
     }
     private void OnTriggerExit(Collider other)
