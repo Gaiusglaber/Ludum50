@@ -4,17 +4,23 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     GameManager gameManager;
+    CheckpointManager checkPointManager;
     [SerializeField] float speed;
     Rigidbody2D rb;
 
     GameObject lantern;
     Vector2 movement;
     public Action<bool> OnCollidingEnemy = null;
-    void Start()
+    private void Awake()
     {
+        checkPointManager = FindObjectOfType<CheckpointManager>();
         gameManager = FindObjectOfType<GameManager>();
         rb = gameObject.GetComponent<Rigidbody2D>();
         lantern = transform.GetChild(0).gameObject;
+    }
+    void Start()
+    {
+        transform.position = checkPointManager.CheckPoint[gameManager.lastCheckpoint].transform.position;
     }
 
     private void FixedUpdate()
@@ -29,11 +35,12 @@ public class PlayerController : MonoBehaviour
     {
         if (other.CompareTag("Checkpoints"))
         {
-            gameManager.LastCheckPoint(other.name);
+            checkPointManager.FindCheckPoint(other.name);
         }
         if (other.CompareTag("Enemy"))
         {
             OnCollidingEnemy?.Invoke(true);
+            gameObject.GetComponent<AudioSource>().Play();
         }
     }
     private void OnTriggerExit(Collider other)

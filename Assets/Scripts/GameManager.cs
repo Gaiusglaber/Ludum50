@@ -7,12 +7,11 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
 
-    public List<GameObject> Checkpoints;
-
-    [SerializeField] int lastCheckpoint;
+    GameObject player;
+    [SerializeField] public int lastCheckpoint = 0;
     private void Awake()
     {
-        if(instance == null)
+        if (instance == null)
         {
             instance = this;
             DontDestroyOnLoad(gameObject);
@@ -21,14 +20,7 @@ public class GameManager : MonoBehaviour
         {
             Destroy(gameObject);
         }
-    }
-    void Start()
-    {
-        //if(lastCheckpoint != null)
-        //{
-        //    GameObject player = FindObjectOfType<PlayerController>().gameObject;
-        //    player.transform.position = Checkpoints[lastCheckpoint].transform.position;
-        //}
+        player = FindObjectOfType<PlayerController>().gameObject;
     }
 
     void Update()
@@ -36,18 +28,6 @@ public class GameManager : MonoBehaviour
         if (Input.GetKeyDown("p"))
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-        }
-    }
-    
-    public void LastCheckPoint(string Name)
-    {
-        for (int i = 0; i < Checkpoints.Count; i++)
-        {
-            string checkPointName = Checkpoints[i].name;
-            if (Name == checkPointName)
-            {
-                lastCheckpoint = i;
-            }
         }
     }
 }
