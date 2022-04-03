@@ -3,6 +3,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    [SerializeField] private SoundPlayer player = null;
     GameManager gameManager;
     CheckpointManager checkPointManager;
     [SerializeField] float speed;
@@ -40,11 +41,11 @@ public class PlayerController : MonoBehaviour
         if (other.CompareTag("Enemy"))
         {
             OnCollidingEnemy?.Invoke(true);
-            if(!other.GetComponent<AudioSource>().isPlaying) other.GetComponent<AudioSource>().Play();
+            player.OnPlaySound?.Invoke("0");
         }
         if (other.CompareTag("EnemySound"))
         {
-            if (!other.GetComponent<AudioSource>().isPlaying) other.GetComponent<AudioSource>().Play();
+            player.OnPlaySound?.Invoke("1");
         }
     }
     private void OnTriggerExit(Collider other)

@@ -6,6 +6,5 @@ using UnityEngine.Events;
 
 public class MusicPlayer : MonoBehaviour
 {
-    [SerializeField] private AudioClip music = null;
     public Action<string> OnPlayMusic = null;
 }

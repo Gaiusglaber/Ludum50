@@ -7,6 +7,7 @@ TagManager:
   - Checkpoints
   - Enemy
   - EnemySound
+  - Lantern
   layers:
   - Default
   - TransparentFX
@@ -16,7 +17,7 @@ TagManager:
   - UI
   - Obstacle
   - TileMap
-  - 
+  - Walls
   - 
   - 
   - 
