@@ -11,22 +11,24 @@ public class UIController : MonoBehaviour
     [SerializeField] private PlayerController player = null;
     [SerializeField] private Image fillImage = null;
     [SerializeField] private float increaseSanitySpeed = 0;
-    [SerializeField] private Volume volume = null;
     [SerializeField] private float vignetteIntensity = 0;
     [SerializeField] private float grainIntensity = 0;
     [SerializeField] private GameObject keyimg = null;
     #endregion
     #region PRIVATE_FIELDS
+    private Volume volume = null;
     private bool OnCollidingEnemy = false;
     private ColorLerper colorLerper = null;
     private FloatLerper grainLerper = null;
     private FloatLerper vignetteLerper = null;
     private FilmGrain grain = null;
     private Vignette vignette = null;
+    private bool isTransitioning = false;
     #endregion
     #region UNITY_CALLS
     private void Start()
     {
+        volume = FindObjectOfType<Volume>();
         player.OnPickKey = EnableKey;
         player.OnCollidingEnemy += IncreaseSanity;
         volume.profile.TryGet(out grain);
@@ -49,8 +51,9 @@ public class UIController : MonoBehaviour
             vignette.intensity.value = vignetteLerper.CurrentValue;
             grain.intensity.value = grainLerper.CurrentValue;
         }
-        if (colorLerper.Reached)
+        if (colorLerper.Reached&&!isTransitioning)
         {
+            isTransitioning = true;
             Transitioner.Instance.ChangeScene("Gameplay");
         }
     }
