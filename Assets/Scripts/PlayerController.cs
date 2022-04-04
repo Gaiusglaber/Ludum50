@@ -4,7 +4,6 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     [SerializeField] private SoundPlayer Soundplayer = null;
-    [SerializeField] private PlayerController player = null;
     GameManager gameManager;
     CheckpointManager checkPointManager;
     [SerializeField] float speed;
@@ -17,7 +16,6 @@ public class PlayerController : MonoBehaviour
     [NonSerialized] public bool HasKey = false;
     private void Awake()
     {
-        player.OnPickKey = EnableKey;
         checkPointManager = FindObjectOfType<CheckpointManager>();
         gameManager = FindObjectOfType<GameManager>();
         rb = gameObject.GetComponent<Rigidbody2D>();

@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
+    [SerializeField] private Camera mainCamera = null;
 
     GameObject player;
     [SerializeField] public int lastCheckpoint = 0;
