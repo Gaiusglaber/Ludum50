@@ -18,6 +18,7 @@ public class CameraLerping : MonoBehaviour
     {
         posLerper = new Vector3Lerper(Cameraspeed, AbstractLerper<Vector3>.SMOOTH_TYPE.STEP_SMOOTHER);
         ChangeRenderer();
+        StartCoroutine(LerpCamera());
     }
 
     private IEnumerator LerpCamera()
@@ -53,6 +54,7 @@ public class CameraLerping : MonoBehaviour
             obj.transform.eulerAngles = rotLerper.CurrentValue;
             yield return new WaitForEndOfFrame();
         }
+        Transitioner.Instance.ChangeScene("Menu");
     }
     public void ChangeRenderer()
     {

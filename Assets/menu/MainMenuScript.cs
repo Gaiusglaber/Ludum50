@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class MainMenuScript : MonoBehaviour {
     public void PlayGame()
     {
-        Transitioner.Instance.ChangeScene("Gameplay");
+        Transitioner.Instance.ChangeScene("Final");
     }
     public void QuitGame()
     {
