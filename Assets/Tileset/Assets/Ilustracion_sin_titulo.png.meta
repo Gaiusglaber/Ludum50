@@ -1,0 +1,5472 @@
+fileFormatVersion: 2
+guid: a0a63915d9a0da741891ebfedf70cde8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9153451109658338658
+    second: Ilustracion_sin_titulo_0
+  - first:
+      213: -7735491738905025257
+    second: Ilustracion_sin_titulo_1
+  - first:
+      213: 3497387261396007273
+    second: Ilustracion_sin_titulo_2
+  - first:
+      213: -1785513315090147773
+    second: Ilustracion_sin_titulo_3
+  - first:
+      213: 1454428956429294538
+    second: Ilustracion_sin_titulo_4
+  - first:
+      213: -7453905934178822805
+    second: Ilustracion_sin_titulo_5
+  - first:
+      213: 1785429458949691328
+    second: Ilustracion_sin_titulo_6
+  - first:
+      213: -6370745599565878711
+    second: Ilustracion_sin_titulo_7
+  - first:
+      213: -1191645334399263345
+    second: Ilustracion_sin_titulo_8
+  - first:
+      213: 78107142927699525
+    second: Ilustracion_sin_titulo_9
+  - first:
+      213: -2519894915343685946
+    second: Ilustracion_sin_titulo_10
+  - first:
+      213: 8342047912313694504
+    second: Ilustracion_sin_titulo_11
+  - first:
+      213: 2721749739906171400
+    second: Ilustracion_sin_titulo_12
+  - first:
+      213: 4495621530954406519
+    second: Ilustracion_sin_titulo_13
+  - first:
+      213: 1738405193089043381
+    second: Ilustracion_sin_titulo_14
+  - first:
+      213: -5944386333622215686
+    second: Ilustracion_sin_titulo_15
+  - first:
+      213: -7688293421567006932
+    second: Ilustracion_sin_titulo_16
+  - first:
+      213: 2304766922403907997
+    second: Ilustracion_sin_titulo_17
+  - first:
+      213: -4174795349273380459
+    second: Ilustracion_sin_titulo_18
+  - first:
+      213: 5551520309393754319
+    second: Ilustracion_sin_titulo_19
+  - first:
+      213: -1164022237639304433
+    second: Ilustracion_sin_titulo_20
+  - first:
+      213: -8904376525474887349
+    second: Ilustracion_sin_titulo_21
+  - first:
+      213: -6084329130553716064
+    second: Ilustracion_sin_titulo_22
+  - first:
+      213: -4509185140598825985
+    second: Ilustracion_sin_titulo_23
+  - first:
+      213: -1198743351882545220
+    second: Ilustracion_sin_titulo_24
+  - first:
+      213: -2931655718881081233
+    second: Ilustracion_sin_titulo_25
+  - first:
+      213: -4632717176066446988
+    second: Ilustracion_sin_titulo_26
+  - first:
+      213: 3189979947286384974
+    second: Ilustracion_sin_titulo_27
+  - first:
+      213: 3146486878082226133
+    second: Ilustracion_sin_titulo_28
+  - first:
+      213: -2972784534048969237
+    second: Ilustracion_sin_titulo_29
+  - first:
+      213: -1237733496957935961
+    second: Ilustracion_sin_titulo_30
+  - first:
+      213: 5504045281543267855
+    second: Ilustracion_sin_titulo_31
+  - first:
+      213: -4573330551278483952
+    second: Ilustracion_sin_titulo_32
+  - first:
+      213: -8181246371355992819
+    second: Ilustracion_sin_titulo_33
+  - first:
+      213: 6647953402483547171
+    second: Ilustracion_sin_titulo_34
+  - first:
+      213: -8987125616920832524
+    second: Ilustracion_sin_titulo_35
+  - first:
+      213: 3918823489214858259
+    second: Ilustracion_sin_titulo_36
+  - first:
+      213: -2152208160048129276
+    second: Ilustracion_sin_titulo_37
+  - first:
+      213: 3179539475008347555
+    second: Ilustracion_sin_titulo_38
+  - first:
+      213: -6612126353298522763
+    second: Ilustracion_sin_titulo_39
+  - first:
+      213: -6422345031090231528
+    second: Ilustracion_sin_titulo_40
+  - first:
+      213: 3652513134169104095
+    second: Ilustracion_sin_titulo_41
+  - first:
+      213: 2313232102238391502
+    second: Ilustracion_sin_titulo_42
+  - first:
+      213: 3781011290726365924
+    second: Ilustracion_sin_titulo_43
+  - first:
+      213: -5805934638058631309
+    second: Ilustracion_sin_titulo_44
+  - first:
+      213: 1756070129700038022
+    second: Ilustracion_sin_titulo_45
+  - first:
+      213: 2518639667815718170
+    second: Ilustracion_sin_titulo_46
+  - first:
+      213: 8825103403899069767
+    second: Ilustracion_sin_titulo_47
+  - first:
+      213: 5473247450641604169
+    second: Ilustracion_sin_titulo_48
+  - first:
+      213: -7989775280441725520
+    second: Ilustracion_sin_titulo_49
+  - first:
+      213: -1870166501959480317
+    second: Ilustracion_sin_titulo_50
+  - first:
+      213: -6085994940425758525
+    second: Ilustracion_sin_titulo_51
+  - first:
+      213: 1561905710174909977
+    second: Ilustracion_sin_titulo_52
+  - first:
+      213: 5292241911861771873
+    second: Ilustracion_sin_titulo_53
+  - first:
+      213: 1701703428977950496
+    second: Ilustracion_sin_titulo_54
+  - first:
+      213: -2639671619698419574
+    second: Ilustracion_sin_titulo_55
+  - first:
+      213: 1958015370446559745
+    second: Ilustracion_sin_titulo_56
+  - first:
+      213: 8449469151697948152
+    second: Ilustracion_sin_titulo_57
+  - first:
+      213: -8330389594869707608
+    second: Ilustracion_sin_titulo_58
+  - first:
+      213: 5297413635935565295
+    second: Ilustracion_sin_titulo_59
+  - first:
+      213: 6654402698479921152
+    second: Ilustracion_sin_titulo_60
+  - first:
+      213: 4061350068953350406
+    second: Ilustracion_sin_titulo_61
+  - first:
+      213: 9050481161243500162
+    second: Ilustracion_sin_titulo_62
+  - first:
+      213: -3447828458810342627
+    second: Ilustracion_sin_titulo_63
+  - first:
+      213: -453351568600271204
+    second: Ilustracion_sin_titulo_64
+  - first:
+      213: 6410736951717550890
+    second: Ilustracion_sin_titulo_65
+  - first:
+      213: -8999830271499523052
+    second: Ilustracion_sin_titulo_66
+  - first:
+      213: 7425462007017666624
+    second: Ilustracion_sin_titulo_67
+  - first:
+      213: 1821623578666275030
+    second: Ilustracion_sin_titulo_68
+  - first:
+      213: 2096740754638233904
+    second: Ilustracion_sin_titulo_69
+  - first:
+      213: 7335849283038276480
+    second: Ilustracion_sin_titulo_70
+  - first:
+      213: -4842266762468362098
+    second: Ilustracion_sin_titulo_71
+  - first:
+      213: -4157246784134865319
+    second: Ilustracion_sin_titulo_72
+  - first:
+      213: -3135733702292796581
+    second: Ilustracion_sin_titulo_73
+  - first:
+      213: -1054987637808418019
+    second: Ilustracion_sin_titulo_74
+  - first:
+      213: 2982020471144370861
+    second: Ilustracion_sin_titulo_75
+  - first:
+      213: -7793334431133308389
+    second: Ilustracion_sin_titulo_76
+  - first:
+      213: 7650570915802025528
+    second: Ilustracion_sin_titulo_77
+  - first:
+      213: 6884461543627900664
+    second: Ilustracion_sin_titulo_78
+  - first:
+      213: 806315925037044862
+    second: Ilustracion_sin_titulo_79
+  - first:
+      213: 909952843995663720
+    second: Ilustracion_sin_titulo_80
+  - first:
+      213: -3481971015304619442
+    second: Ilustracion_sin_titulo_81
+  - first:
+      213: 5270651367446649984
+    second: Ilustracion_sin_titulo_82
+  - first:
+      213: -7566039861625656138
+    second: Ilustracion_sin_titulo_83
+  - first:
+      213: 9123804294132290241
+    second: Ilustracion_sin_titulo_84
+  - first:
+      213: 1866774176708178689
+    second: Ilustracion_sin_titulo_85
+  - first:
+      213: -627140711422633818
+    second: Ilustracion_sin_titulo_86
+  - first:
+      213: 7204370115250264345
+    second: Ilustracion_sin_titulo_87
+  - first:
+      213: 1836191500506080270
+    second: Ilustracion_sin_titulo_88
+  - first:
+      213: 646928008775628685
+    second: Ilustracion_sin_titulo_89
+  - first:
+      213: -918882788391848268
+    second: Ilustracion_sin_titulo_90
+  - first:
+      213: -98810190238037112
+    second: Ilustracion_sin_titulo_91
+  - first:
+      213: -3906399460677808125
+    second: Ilustracion_sin_titulo_92
+  - first:
+      213: 233224367924170540
+    second: Ilustracion_sin_titulo_93
+  - first:
+      213: 4984649885610939411
+    second: Ilustracion_sin_titulo_94
+  - first:
+      213: -3486610985792871404
+    second: Ilustracion_sin_titulo_95
+  - first:
+      213: -3869786059771658975
+    second: Ilustracion_sin_titulo_96
+  - first:
+      213: -1377809182027149695
+    second: Ilustracion_sin_titulo_97
+  - first:
+      213: 1616871386276848030
+    second: Ilustracion_sin_titulo_98
+  - first:
+      213: 6158992713257232167
+    second: Ilustracion_sin_titulo_99
+  - first:
+      213: 3355681042298793830
+    second: Ilustracion_sin_titulo_100
+  - first:
+      213: 2540597488393191868
+    second: Ilustracion_sin_titulo_101
+  - first:
+      213: 2971176753972489284
+    second: Ilustracion_sin_titulo_102
+  - first:
+      213: 6831722392531494145
+    second: Ilustracion_sin_titulo_103
+  - first:
+      213: 1261401433611463062
+    second: Ilustracion_sin_titulo_104
+  - first:
+      213: 7973094880636232595
+    second: Ilustracion_sin_titulo_105
+  - first:
+      213: -844928312638527202
+    second: Ilustracion_sin_titulo_106
+  - first:
+      213: -8602197392077974985
+    second: Ilustracion_sin_titulo_107
+  - first:
+      213: 5097398582207634280
+    second: Ilustracion_sin_titulo_108
+  - first:
+      213: 5464109421147209580
+    second: Ilustracion_sin_titulo_109
+  - first:
+      213: 5247425733526244386
+    second: Ilustracion_sin_titulo_110
+  - first:
+      213: 2407317217052675565
+    second: Ilustracion_sin_titulo_111
+  - first:
+      213: 8303675703866857627
+    second: Ilustracion_sin_titulo_112
+  - first:
+      213: 7746793760292187387
+    second: Ilustracion_sin_titulo_113
+  - first:
+      213: 8897403548124555028
+    second: Ilustracion_sin_titulo_114
+  - first:
+      213: 3051034573388638779
+    second: Ilustracion_sin_titulo_115
+  - first:
+      213: -7701652733786256775
+    second: Ilustracion_sin_titulo_116
+  - first:
+      213: 4046258822379697240
+    second: Ilustracion_sin_titulo_117
+  - first:
+      213: 2411494866556414797
+    second: Ilustracion_sin_titulo_118
+  - first:
+      213: -5884670466092351326
+    second: Ilustracion_sin_titulo_119
+  - first:
+      213: -4455210601433340691
+    second: Ilustracion_sin_titulo_120
+  - first:
+      213: 1968600980347119097
+    second: Ilustracion_sin_titulo_121
+  - first:
+      213: -1740019385892545882
+    second: Ilustracion_sin_titulo_122
+  - first:
+      213: 8839147223192262125
+    second: Ilustracion_sin_titulo_123
+  - first:
+      213: 5664531617370357940
+    second: Ilustracion_sin_titulo_124
+  - first:
+      213: 5174602098594805810
+    second: Ilustracion_sin_titulo_125
+  - first:
+      213: -4621535076523449762
+    second: Ilustracion_sin_titulo_126
+  - first:
+      213: -3294315398980766187
+    second: Ilustracion_sin_titulo_127
+  - first:
+      213: -998896147230604240
+    second: Ilustracion_sin_titulo_128
+  - first:
+      213: 3078781161912427288
+    second: Ilustracion_sin_titulo_129
+  - first:
+      213: 8084566651019318232
+    second: Ilustracion_sin_titulo_130
+  - first:
+      213: -1754322924418593727
+    second: Ilustracion_sin_titulo_131
+  - first:
+      213: 4359847684163922440
+    second: Ilustracion_sin_titulo_132
+  - first:
+      213: -6823033094504802690
+    second: Ilustracion_sin_titulo_133
+  - first:
+      213: -5784416353641132181
+    second: Ilustracion_sin_titulo_134
+  - first:
+      213: -6690164258009530615
+    second: Ilustracion_sin_titulo_135
+  - first:
+      213: -5658232385061579374
+    second: Ilustracion_sin_titulo_136
+  - first:
+      213: 8965814628986082760
+    second: Ilustracion_sin_titulo_137
+  - first:
+      213: -5722001094148151071
+    second: Ilustracion_sin_titulo_138
+  - first:
+      213: 8784746197716779621
+    second: Ilustracion_sin_titulo_139
+  - first:
+      213: -5393917973931671152
+    second: Ilustracion_sin_titulo_140
+  - first:
+      213: 3512491860544672822
+    second: Ilustracion_sin_titulo_141
+  - first:
+      213: -8704875795564373997
+    second: Ilustracion_sin_titulo_142
+  - first:
+      213: 5898397903575239492
+    second: Ilustracion_sin_titulo_143
+  - first:
+      213: 264251601850806377
+    second: Ilustracion_sin_titulo_144
+  - first:
+      213: -7596848872576507095
+    second: Ilustracion_sin_titulo_145
+  - first:
+      213: -4518560926420695548
+    second: Ilustracion_sin_titulo_146
+  - first:
+      213: -5489889087778650757
+    second: Ilustracion_sin_titulo_147
+  - first:
+      213: -1874327725647427190
+    second: Ilustracion_sin_titulo_148
+  - first:
+      213: 3736540488131745533
+    second: Ilustracion_sin_titulo_149
+  - first:
+      213: 7468580687015595270
+    second: Ilustracion_sin_titulo_150
+  - first:
+      213: -4289779556330477910
+    second: Ilustracion_sin_titulo_151
+  - first:
+      213: 7856744322941362454
+    second: Ilustracion_sin_titulo_152
+  - first:
+      213: -1370879285982912358
+    second: Ilustracion_sin_titulo_153
+  - first:
+      213: 1084244301665332836
+    second: Ilustracion_sin_titulo_154
+  - first:
+      213: 8747506240096602907
+    second: Ilustracion_sin_titulo_155
+  - first:
+      213: -8040650244247165899
+    second: Ilustracion_sin_titulo_156
+  - first:
+      213: -8699531658692978854
+    second: Ilustracion_sin_titulo_157
+  - first:
+      213: 7302905902660509889
+    second: Ilustracion_sin_titulo_158
+  - first:
+      213: -4003524451037954822
+    second: Ilustracion_sin_titulo_159
+  - first:
+      213: -183250069367145675
+    second: Ilustracion_sin_titulo_160
+  - first:
+      213: -5482667845616276362
+    second: Ilustracion_sin_titulo_161
+  - first:
+      213: -2275707265277600603
+    second: Ilustracion_sin_titulo_162
+  - first:
+      213: 8538625337725911817
+    second: Ilustracion_sin_titulo_163
+  - first:
+      213: -7357587262830304010
+    second: Ilustracion_sin_titulo_164
+  - first:
+      213: 2439543885938647001
+    second: Ilustracion_sin_titulo_165
+  - first:
+      213: -1738502250418033195
+    second: Ilustracion_sin_titulo_166
+  - first:
+      213: 3727939943559709772
+    second: Ilustracion_sin_titulo_167
+  - first:
+      213: 1846502075675583867
+    second: Ilustracion_sin_titulo_168
+  - first:
+      213: -5911902731685522878
+    second: Ilustracion_sin_titulo_169
+  - first:
+      213: 5714033276438591835
+    second: Ilustracion_sin_titulo_170
+  - first:
+      213: -3139508167150188601
+    second: Ilustracion_sin_titulo_171
+  - first:
+      213: -8133424833596348453
+    second: Ilustracion_sin_titulo_172
+  - first:
+      213: -3321783480487624928
+    second: Ilustracion_sin_titulo_173
+  - first:
+      213: -323852611349466964
+    second: Ilustracion_sin_titulo_174
+  - first:
+      213: 3433461473750214186
+    second: Ilustracion_sin_titulo_175
+  - first:
+      213: 8089436364277438086
+    second: Ilustracion_sin_titulo_176
+  - first:
+      213: -5372968379928604399
+    second: Ilustracion_sin_titulo_177
+  - first:
+      213: 7302689324454180984
+    second: Ilustracion_sin_titulo_178
+  - first:
+      213: -2108519830497328523
+    second: Ilustracion_sin_titulo_179
+  - first:
+      213: 3593372799720889451
+    second: Ilustracion_sin_titulo_180
+  - first:
+      213: 4183435722806994057
+    second: Ilustracion_sin_titulo_181
+  - first:
+      213: -8038525408397428517
+    second: Ilustracion_sin_titulo_182
+  - first:
+      213: -2657931272814263623
+    second: Ilustracion_sin_titulo_183
+  - first:
+      213: 1988071520079473775
+    second: Ilustracion_sin_titulo_184
+  - first:
+      213: 2931690673313154042
+    second: Ilustracion_sin_titulo_185
+  - first:
+      213: -2730785143542168128
+    second: Ilustracion_sin_titulo_186
+  - first:
+      213: -1523452891563839547
+    second: Ilustracion_sin_titulo_187
+  - first:
+      213: 1796332256803782086
+    second: Ilustracion_sin_titulo_188
+  - first:
+      213: 5752577194523561322
+    second: Ilustracion_sin_titulo_189
+  - first:
+      213: -7719104321697248893
+    second: Ilustracion_sin_titulo_190
+  - first:
+      213: -2403152306146129242
+    second: Ilustracion_sin_titulo_191
+  - first:
+      213: 7947507223499843796
+    second: Ilustracion_sin_titulo_192
+  - first:
+      213: -8765600901352680560
+    second: Ilustracion_sin_titulo_193
+  - first:
+      213: -4864667488860331721
+    second: Ilustracion_sin_titulo_194
+  - first:
+      213: 6374397756595857654
+    second: Ilustracion_sin_titulo_195
+  - first:
+      213: 4561646541422658511
+    second: Ilustracion_sin_titulo_196
+  - first:
+      213: 3045432683462182607
+    second: Ilustracion_sin_titulo_197
+  - first:
+      213: -2147820682963962390
+    second: Ilustracion_sin_titulo_198
+  - first:
+      213: 4992761489570869868
+    second: Ilustracion_sin_titulo_199
+  - first:
+      213: 7370399665258577919
+    second: Ilustracion_sin_titulo_200
+  - first:
+      213: 4952962161394237939
+    second: Ilustracion_sin_titulo_201
+  - first:
+      213: -9179086901852190594
+    second: Ilustracion_sin_titulo_202
+  - first:
+      213: -3682512906398289014
+    second: Ilustracion_sin_titulo_203
+  - first:
+      213: -3602691259988670185
+    second: Ilustracion_sin_titulo_204
+  - first:
+      213: -2995445063431539334
+    second: Ilustracion_sin_titulo_205
+  - first:
+      213: -2381706069773354159
+    second: Ilustracion_sin_titulo_206
+  - first:
+      213: 1733937812043583274
+    second: Ilustracion_sin_titulo_207
+  - first:
+      213: 814925747764897450
+    second: Ilustracion_sin_titulo_208
+  - first:
+      213: -2928501165234272747
+    second: Ilustracion_sin_titulo_209
+  - first:
+      213: 4316367355733293362
+    second: Ilustracion_sin_titulo_210
+  - first:
+      213: -4630319319456523149
+    second: Ilustracion_sin_titulo_211
+  - first:
+      213: 3460673650941379890
+    second: Ilustracion_sin_titulo_212
+  - first:
+      213: 285662178649909940
+    second: Ilustracion_sin_titulo_213
+  - first:
+      213: 8810326066257007654
+    second: Ilustracion_sin_titulo_214
+  - first:
+      213: 285649313031300912
+    second: Ilustracion_sin_titulo_215
+  - first:
+      213: -6966306404699881539
+    second: Ilustracion_sin_titulo_216
+  - first:
+      213: 5120882177334634986
+    second: Ilustracion_sin_titulo_217
+  - first:
+      213: 3382695806268669550
+    second: Ilustracion_sin_titulo_218
+  - first:
+      213: -7252691718227792138
+    second: Ilustracion_sin_titulo_219
+  - first:
+      213: 9013863985327820659
+    second: Ilustracion_sin_titulo_220
+  - first:
+      213: -2320963645243049527
+    second: Ilustracion_sin_titulo_221
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_0
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26527148947970f70800000000000000
+      internalID: 9153451109658338658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_1
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715e8937f3306a490800000000000000
+      internalID: -7735491738905025257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_2
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9693c7d2f27398030800000000000000
+      internalID: 3497387261396007273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_3
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346525899159837e0800000000000000
+      internalID: -1785513315090147773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb92031e6b2f2410800000000000000
+      internalID: 1454428956429294538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65581c9b086e8890800000000000000
+      internalID: -7453905934178822805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_6
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7d63022ae17c810800000000000000
+      internalID: 1785429458949691328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_7
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a2e7f71a09697a0800000000000000
+      internalID: -6370745599565878711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_8
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d51e8c1ec667fe0800000000000000
+      internalID: -1191645334399263345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e40ac580e751100800000000000000
+      internalID: 78107142927699525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_10
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c660abece8870dd0800000000000000
+      internalID: -2519894915343685946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8292fb0d068e4c370800000000000000
+      internalID: 8342047912313694504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_12
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8028e9ec7f895c520800000000000000
+      internalID: 2721749739906171400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a922da6f7a36e30800000000000000
+      internalID: 4495621530954406519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_14
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb44c9005e002810800000000000000
+      internalID: 1738405193089043381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbd2c0df1c418da0800000000000000
+      internalID: -5944386333622215686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_16
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27a68e0ed1bd4590800000000000000
+      internalID: -7688293421567006932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_17
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9984f30e4d2cff10800000000000000
+      internalID: 2304766922403907997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_18
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5997b94bfb52016c0800000000000000
+      internalID: -4174795349273380459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_19
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc808c4ee46fa0d40800000000000000
+      internalID: 5551520309393754319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_20
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b9ade21ff88dfe0800000000000000
+      internalID: -1164022237639304433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_21
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b490ebc3abc4d6480800000000000000
+      internalID: -8904376525474887349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_22
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2d8c454ee109ba0800000000000000
+      internalID: -6084329130553716064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_23
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1156
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb132c51082c61c0800000000000000
+      internalID: -4509185140598825985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1092
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb70e2ec5453d5fe0800000000000000
+      internalID: -1198743351882545220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1092
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68c95008aaa057d0800000000000000
+      internalID: -2931655718881081233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1092
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47965b7064845bfb0800000000000000
+      internalID: -4632717176066446988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1092
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41df9e5cd5154c20800000000000000
+      internalID: 3189979947286384974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1092
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7d48215219aab20800000000000000
+      internalID: 3146486878082226133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_29
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1092
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed6c3e773c8eb6d0800000000000000
+      internalID: -2972784534048969237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1092
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae583b31ffa2dee0800000000000000
+      internalID: -1237733496957935961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_31
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1092
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f062d0a950c426c40800000000000000
+      internalID: 5504045281543267855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_32
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1092
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016ca9a18144880c0800000000000000
+      internalID: -4573330551278483952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_33
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1092
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d5f5775cf567e80800000000000000
+      internalID: -8181246371355992819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1092
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c916ea566424c50800000000000000
+      internalID: 6647953402483547171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_35
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1092
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5de930ed0574380800000000000000
+      internalID: -8987125616920832524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_36
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1092
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314cb1c5335726630800000000000000
+      internalID: 3918823489214858259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_37
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1092
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b52a1d412d122e0800000000000000
+      internalID: -2152208160048129276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_38
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1092
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad543d7e4eff1c20800000000000000
+      internalID: 3179539475008347555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_39
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1092
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d74ad3d120d34a0800000000000000
+      internalID: -6612126353298522763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_40
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1092
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8172fd4a83f3fd6a0800000000000000
+      internalID: -6422345031090231528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_41
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1092
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde199bf75550b230800000000000000
+      internalID: 3652513134169104095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_42
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1092
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc03f847504a1020800000000000000
+      internalID: 2313232102238391502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_43
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1092
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea7c7b7cb9d87430800000000000000
+      internalID: 3781011290726365924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_44
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1092
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f0165353d2d6fa0800000000000000
+      internalID: -5805934638058631309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_45
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1092
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685e1799a70de5810800000000000000
+      internalID: 1756070129700038022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_46
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1092
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d1d5dfe6104f220800000000000000
+      internalID: 2518639667815718170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_47
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1092
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745ae77d9c0197a70800000000000000
+      internalID: 8825103403899069767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1028
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e1e4fce81e4fb40800000000000000
+      internalID: 5473247450641604169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_49
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1028
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bde21ec6bd9e1190800000000000000
+      internalID: -7989775280441725520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_50
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1028
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ccedb9975db06e0800000000000000
+      internalID: -1870166501959480317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_51
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1028
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8191fb8d33a8ba0800000000000000
+      internalID: -6085994940425758525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_52
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1028
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91631a3d7f00da510800000000000000
+      internalID: 1561905710174909977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_53
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1028
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e74f5baf1d17940800000000000000
+      internalID: 5292241911861771873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1028
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f7b4da04aad9710800000000000000
+      internalID: 1701703428977950496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_55
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1028
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a881230c5a00e5bd0800000000000000
+      internalID: -2639671619698419574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_56
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1028
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ad83cfa944c2b10800000000000000
+      internalID: 1958015370446559745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_57
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1028
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdc39f1d6b824570800000000000000
+      internalID: 8449469151697948152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_58
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1028
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac4e2dbcc2846c80800000000000000
+      internalID: -8330389594869707608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_59
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1028
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5ff3e82a1348940800000000000000
+      internalID: 5297413635935565295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_60
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1028
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008eb4b6fff295c50800000000000000
+      internalID: 6654402698479921152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_61
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1028
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6010978ae50dc5830800000000000000
+      internalID: 4061350068953350406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_62
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1028
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e98462aa4c99d70800000000000000
+      internalID: 9050481161243500162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_63
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1028
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13802ab84ad620d0800000000000000
+      internalID: -3447828458810342627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_64
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1028
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96f63b762f55b9f0800000000000000
+      internalID: -453351568600271204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_65
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1028
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b5893ca4387f850800000000000000
+      internalID: 6410736951717550890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_66
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1028
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ca67c1d0e2a1380800000000000000
+      internalID: -8999830271499523052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_67
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1028
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04872758a5a8c0760800000000000000
+      internalID: 7425462007017666624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_68
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1028
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d011e05ef4b74910800000000000000
+      internalID: 1821623578666275030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_69
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1028
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031eb4a7b9e191d10800000000000000
+      internalID: 2096740754638233904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_70
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1028
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bec415e0c2ec560800000000000000
+      internalID: 7335849283038276480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_71
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1028
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e887463f800dcccb0800000000000000
+      internalID: -4842266762468362098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_72
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1028
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e910c631e7e46c0800000000000000
+      internalID: -4157246784134865319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_73
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 964
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b0e94cfc2ab74d0800000000000000
+      internalID: -3135733702292796581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_74
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 964
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13300e355eeb51f0800000000000000
+      internalID: -1054987637808418019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_75
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 964
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2d08fa1d3426920800000000000000
+      internalID: 2982020471144370861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_76
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 964
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a6a7030a388d390800000000000000
+      internalID: -7793334431133308389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_77
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 964
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e8055a6b94c2a60800000000000000
+      internalID: 7650570915802025528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_78
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 964
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f647c96c458a8f50800000000000000
+      internalID: 6884461543627900664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_79
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 964
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74d290df0c903b00800000000000000
+      internalID: 806315925037044862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_80
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 964
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dc7bc5a4dc0ac00800000000000000
+      internalID: 909952843995663720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_81
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 964
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4adf825fcd8dafc0800000000000000
+      internalID: -3481971015304619442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_82
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 964
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c959b5e7d152940800000000000000
+      internalID: 5270651367446649984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_83
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 964
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc6b5b15d6000790800000000000000
+      internalID: -7566039861625656138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_84
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 964
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c250ff5aa34e9e70800000000000000
+      internalID: 9123804294132290241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_85
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 964
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103309e193d18e910800000000000000
+      internalID: 1866774176708178689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_86
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 964
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8d77f78d2fb47f0800000000000000
+      internalID: -627140711422633818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_87
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 964
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9199eed03701bf360800000000000000
+      internalID: 7204370115250264345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_88
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 964
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04a14fe0767b7910800000000000000
+      internalID: 1836191500506080270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_89
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 964
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87725ea8995af800800000000000000
+      internalID: 646928008775628685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_90
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 964
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6feafe8f87f33f0800000000000000
+      internalID: -918882788391848268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_91
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 964
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b4caec7a4f0aef0800000000000000
+      internalID: -98810190238037112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_92
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 964
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3009583336ea9c9c0800000000000000
+      internalID: -3906399460677808125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_93
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 964
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fc513b3549c3300800000000000000
+      internalID: 233224367924170540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_94
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 964
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314188149a80d2540800000000000000
+      internalID: 4984649885610939411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_95
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 964
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41467d108c11d9fc0800000000000000
+      internalID: -3486610985792871404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_96
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 964
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d3d86e412cb4ac0800000000000000
+      internalID: -3869786059771658975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_97
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 900
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e000159d901ece0800000000000000
+      internalID: -1377809182027149695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_98
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 900
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91668295f7407610800000000000000
+      internalID: 1616871386276848030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_99
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 900
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727aaefad33297550800000000000000
+      internalID: 6158992713257232167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_100
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 900
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f6bb9f026c19e20800000000000000
+      internalID: 3355681042298793830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_101
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 900
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb10dec74f3024320800000000000000
+      internalID: 2540597488393191868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_102
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 900
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cad69048dbb3920800000000000000
+      internalID: 2971176753972489284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_103
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 900
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105ebeae1572fce50800000000000000
+      internalID: 6831722392531494145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_104
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 900
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6996491bbe5618110800000000000000
+      internalID: 1261401433611463062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_105
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 900
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393eec8fc8f16ae60800000000000000
+      internalID: 7973094880636232595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_106
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 900
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19a2802d263644f0800000000000000
+      internalID: -844928312638527202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_107
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 900
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732966d5c0bde9880800000000000000
+      internalID: -8602197392077974985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_108
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 900
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bd01bd0099db640800000000000000
+      internalID: 5097398582207634280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_109
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 900
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f3855819a64db40800000000000000
+      internalID: 5464109421147209580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_110
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 900
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c431017e992d840800000000000000
+      internalID: 5247425733526244386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_111
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 900
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded4b102142886120800000000000000
+      internalID: 2407317217052675565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_112
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 900
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b989603de059c3370800000000000000
+      internalID: 8303675703866857627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_113
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 900
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcad6671e3228b60800000000000000
+      internalID: 7746793760292187387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_114
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 900
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417a345f26de97b70800000000000000
+      internalID: 8897403548124555028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_115
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 836
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ae34887c3775a20800000000000000
+      internalID: 3051034573388638779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_116
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 836
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a014bc4ab3e1590800000000000000
+      internalID: -7701652733786256775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_117
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 836
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8547b3106f2372830800000000000000
+      internalID: 4046258822379697240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_118
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 836
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4be5c2fdc9577120800000000000000
+      internalID: 2411494866556414797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_119
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 836
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a04550b363755ea0800000000000000
+      internalID: -5884670466092351326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_120
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 836
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4e20e0099eb22c0800000000000000
+      internalID: -4455210601433340691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_121
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 836
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5631a5920e15b10800000000000000
+      internalID: 1968600980347119097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_122
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 836
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aad49966953ad7e0800000000000000
+      internalID: -1740019385892545882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_123
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 836
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de551c35195faaa70800000000000000
+      internalID: 8839147223192262125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_124
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 708
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b044587e757c9e40800000000000000
+      internalID: 5664531617370357940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_125
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 708
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238fbb44131efc740800000000000000
+      internalID: 5174602098594805810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_126
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 708
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52efc675520ddfb0800000000000000
+      internalID: -4621535076523449762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_127
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 708
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516f6a1499d3842d0800000000000000
+      internalID: -3294315398980766187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_128
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 708
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03440d81f353322f0800000000000000
+      internalID: -998896147230604240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_129
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 708
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81364f897270aba20800000000000000
+      internalID: 3078781161912427288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_130
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 644
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3d9f40986223070800000000000000
+      internalID: 8084566651019318232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 644
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c84b4589467a7e0800000000000000
+      internalID: -1754322924418593727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 644
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a66698e5a418c30800000000000000
+      internalID: 4359847684163922440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_133
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 644
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e769e4fec87bf41a0800000000000000
+      internalID: -6823033094504802690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_134
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 644
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f824839ff99bfa0800000000000000
+      internalID: -5784416353641132181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_135
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 644
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fb358ad03c723a0800000000000000
+      internalID: -6690164258009530615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_136
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 644
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2951bc7df9be971b0800000000000000
+      internalID: -5658232385061579374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_137
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 644
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c557b2f6e8fc6c70800000000000000
+      internalID: 8965814628986082760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_138
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 644
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e827e2425e5790b0800000000000000
+      internalID: -5722001094148151071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_139
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 644
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5624fdc8f10b9e970800000000000000
+      internalID: 8784746197716779621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_140
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 644
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09145305e24f425b0800000000000000
+      internalID: -5393917973931671152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_141
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 644
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6345738bcb0eeb030800000000000000
+      internalID: 3512491860544672822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_142
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 644
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3185d779591123780800000000000000
+      internalID: -8704875795564373997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_143
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 644
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bc28a64a15bd150800000000000000
+      internalID: 5898397903575239492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_144
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 644
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96035ab8e6fcaa300800000000000000
+      internalID: 264251601850806377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_145
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 644
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92320c14332929690800000000000000
+      internalID: -7596848872576507095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_146
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 644
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4060cbc17c8da41c0800000000000000
+      internalID: -4518560926420695548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_147
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 644
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7509aa16feffc3b0800000000000000
+      internalID: -5489889087778650757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_148
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a898e183ddc0df5e0800000000000000
+      internalID: -1874327725647427190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_149
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df615f3e6cbdad330800000000000000
+      internalID: 3736540488131745533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_150
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d48e9809ab5a760800000000000000
+      internalID: 7468580687015595270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_151
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa66034c834a774c0800000000000000
+      internalID: -4289779556330477910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_152
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611acfbb553c80d60800000000000000
+      internalID: 7856744322941362454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_153
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a902c097d88a9fce0800000000000000
+      internalID: -1370879285982912358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_154
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ee082a2720c0f00800000000000000
+      internalID: 1084244301665332836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_155
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b887f3492656970800000000000000
+      internalID: 8747506240096602907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_156
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5346d7c343fd96090800000000000000
+      internalID: -8040650244247165899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_157
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57175b6c0e054780800000000000000
+      internalID: -8699531658692978854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_158
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0ee2cd932295560800000000000000
+      internalID: 7302905902660509889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_159
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcba4e29bf9078c0800000000000000
+      internalID: -4003524451037954822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_160
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b3e466807f47df0800000000000000
+      internalID: -183250069367145675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_161
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ce59094a6a9e3b0800000000000000
+      internalID: -5482667845616276362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_162
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac5a58ac401b60e0800000000000000
+      internalID: -2275707265277600603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_163
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9038d4d418a4f7670800000000000000
+      internalID: 8538625337725911817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_164
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4af0bdd5994e990800000000000000
+      internalID: -7357587262830304010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_165
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df595f2d300bd120800000000000000
+      internalID: 2439543885938647001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_166
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddad9a0a699fd7e0800000000000000
+      internalID: -1738502250418033195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_167
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44cddf80ad4cb330800000000000000
+      internalID: 3727939943559709772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_168
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b752aa9cad710a910800000000000000
+      internalID: 1846502075675583867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_169
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2421933c9c3b4fda0800000000000000
+      internalID: -5911902731685522878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_170
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5932ec9df25c4f40800000000000000
+      internalID: 5714033276438591835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_171
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7439fa4f93e64d0800000000000000
+      internalID: -3139508167150188601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_172
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 580
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd72622e435402f80800000000000000
+      internalID: -8133424833596348453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_173
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f36c82687a6e1d0800000000000000
+      internalID: -3321783480487624928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_174
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0beec04c1718bf0800000000000000
+      internalID: -323852611349466964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_175
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26eed4e40b16af20800000000000000
+      internalID: 3433461473750214186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_176
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68652ed7383734070800000000000000
+      internalID: 8089436364277438086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_177
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11113f4c9b16f65b0800000000000000
+      internalID: -5372968379928604399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_178
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878f021df3d585560800000000000000
+      internalID: 7302689324454180984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_179
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5720755b2680db2e0800000000000000
+      internalID: -2108519830497328523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_180
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c1ae8d5893ed130800000000000000
+      internalID: 3593372799720889451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_181
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984279600ac8e0a30800000000000000
+      internalID: 4183435722806994057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_182
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8f4822bbb617090800000000000000
+      internalID: -8038525408397428517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_183
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b20186f6912d1bd0800000000000000
+      internalID: -2657931272814263623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_184
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c6866a38c079b10800000000000000
+      internalID: 1988071520079473775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_185
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3082672257fa820800000000000000
+      internalID: 2931690673313154042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_186
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c54149516d4a1ad0800000000000000
+      internalID: -2730785143542168128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_187
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfab4eaaab9bdae0800000000000000
+      internalID: -1523452891563839547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_188
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd7d519baadde810800000000000000
+      internalID: 1796332256803782086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_189
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d079eda7245df40800000000000000
+      internalID: 5752577194523561322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_190
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3898d09548b30e490800000000000000
+      internalID: -7719104321697248893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_191
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aacff2c5b946aed0800000000000000
+      internalID: -2403152306146129242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_192
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d82f8a46b73b4e60800000000000000
+      internalID: 7947507223499843796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_193
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09397002c645a5680800000000000000
+      internalID: -8765600901352680560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_194
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731a61861ba3d7cb0800000000000000
+      internalID: -4864667488860331721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_195
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f861f29cf8667850800000000000000
+      internalID: 6374397756595857654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_196
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3036c5c593e4f30800000000000000
+      internalID: 4561646541422658511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_197
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 452
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6c025e3ec834a20800000000000000
+      internalID: 3045432683462182607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_198
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 452
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae532bee7786132e0800000000000000
+      internalID: -2147820682963962390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_199
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 452
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c623f1a3f1ad94540800000000000000
+      internalID: 4992761489570869868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_200
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 452
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff356c027be84660800000000000000
+      internalID: 7370399665258577919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_201
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 452
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1cad708d47cb440800000000000000
+      internalID: 4952962161394237939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_202
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 452
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78c8ac78155d9080800000000000000
+      internalID: -9179086901852190594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_203
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 452
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83b65db50615ecc0800000000000000
+      internalID: -3682512906398289014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_204
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 452
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71988fc036ba00ec0800000000000000
+      internalID: -3602691259988670185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_205
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 452
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7537f9d59a0e66d0800000000000000
+      internalID: -2995445063431539334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_206
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 452
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b74c7c2fa72fed0800000000000000
+      internalID: -2381706069773354159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_207
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 452
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fc975d04f201810800000000000000
+      internalID: 1733937812043583274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_208
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 452
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6a8d166a23f4b00800000000000000
+      internalID: 814925747764897450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_209
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 452
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516c4e1c4bfdb57d0800000000000000
+      internalID: -2928501165234272747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_210
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 452
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239339ead31d6eb30800000000000000
+      internalID: 4316367355733293362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_211
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 452
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c5a278c1dcdbfb0800000000000000
+      internalID: -4630319319456523149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_212
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 452
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2354aef9958c60030800000000000000
+      internalID: 3460673650941379890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_213
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 452
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba213cec30e6f300800000000000000
+      internalID: 285662178649909940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_214
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 452
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6241d9ec0e0944a70800000000000000
+      internalID: 8810326066257007654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_215
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 452
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037a0996984d6f300800000000000000
+      internalID: 285649313031300912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_216
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 452
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfb557eb35b25f90800000000000000
+      internalID: -6966306404699881539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_217
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 452
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9e8ac6537011740800000000000000
+      internalID: 5120882177334634986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_218
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 452
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ef8dbd9efb1fe20800000000000000
+      internalID: 3382695806268669550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_219
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 452
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe6d950f43495b90800000000000000
+      internalID: -7252691718227792138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_220
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 388
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fc623898da71d70800000000000000
+      internalID: 9013863985327820659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilustracion_sin_titulo_221
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 388
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c931b49cd74acfd0800000000000000
+      internalID: -2320963645243049527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

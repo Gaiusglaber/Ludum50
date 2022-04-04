@@ -60,3 +60,18 @@ TagManager:
   - name: Keys
     uniqueID: 1172278169
     locked: 0
+  - name: Assets
+    uniqueID: 3237311019
+    locked: 0
+  - name: Assets1
+    uniqueID: 3508197169
+    locked: 0
+  - name: Assets2
+    uniqueID: 205786271
+    locked: 0
+  - name: Assets3
+    uniqueID: 3478906443
+    locked: 0
+  - name: New Layer
+    uniqueID: 679626513
+    locked: 0
