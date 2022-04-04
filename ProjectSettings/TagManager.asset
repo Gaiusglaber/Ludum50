@@ -4,12 +4,13 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Checkpoints
-  - Enemy
-  - EnemySound
-  - Lantern
-  - Glass
+  - Shootable
   - Key
+  - Glass
+  - EnemySound
+  - Enemy
+  - Checkpoints
+  - Lantern
   layers:
   - Default
   - TransparentFX
@@ -17,9 +18,11 @@ TagManager:
   - 
   - Water
   - UI
-  - Obstacle
-  - TileMap
-  - Walls
+  - 
+  - 
+  - Lighting
+  - Ground
+  - Postprocessing
   - 
   - 
   - 
@@ -41,39 +44,13 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - GlobalPP
   m_SortingLayers:
+  - name: Fire
+    uniqueID: 3804908061
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Ground
-    uniqueID: 1476206345
-    locked: 0
-  - name: Enemy
-    uniqueID: 886966057
-    locked: 0
-  - name: Walls
-    uniqueID: 146111465
-    locked: 0
   - name: Player
-    uniqueID: 3791137935
-    locked: 0
-  - name: Keys
-    uniqueID: 1172278169
-    locked: 0
-  - name: Assets
-    uniqueID: 3237311019
-    locked: 0
-  - name: Assets1
-    uniqueID: 3508197169
-    locked: 0
-  - name: Assets2
-    uniqueID: 205786271
-    locked: 0
-  - name: Assets3
-    uniqueID: 3478906443
-    locked: 0
-  - name: New Layer
-    uniqueID: 679626513
+    uniqueID: 351043005
     locked: 0
