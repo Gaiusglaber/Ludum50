@@ -49,6 +49,10 @@ public class UIController : MonoBehaviour
             vignette.intensity.value = vignetteLerper.CurrentValue;
             grain.intensity.value = grainLerper.CurrentValue;
         }
+        if (colorLerper.Reached)
+        {
+            Transitioner.Instance.ChangeScene("Gameplay");
+        }
     }
     #endregion
     #region PRIVATE_METHODS

@@ -49,6 +49,10 @@ public class PlayerController : MonoBehaviour
         {
             Soundplayer.OnPlaySound?.Invoke("1");
         }
+        if (other.CompareTag("Glass"))
+        {
+            Soundplayer.OnPlaySound?.Invoke("8");
+        }
         
     }
     private void OnTriggerStay2D(Collider2D collision)
